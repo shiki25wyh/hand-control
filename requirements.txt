@@ -1,0 +1,7 @@
+mediapipe
+numpy
+autopy
+pyautogui
+osascript
+ctypes
+opencv-python
